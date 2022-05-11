@@ -12,4 +12,4 @@ The goal of this project to analyze variants with BigQuery and familiarize with 
 - 
 # Dataset
 
-Download link: 
+Download link: https://genome.ucsc.edu/cgi-bin/hgGateway?redirect=manual&source=genome.ucsc.edu
