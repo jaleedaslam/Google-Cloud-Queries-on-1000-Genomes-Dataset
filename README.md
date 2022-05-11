@@ -1,7 +1,7 @@
 # Google-Cloud-Queries-on-1000-Genomes-Dataset
 
 # Goal 
-The goal was to familiarize ourselves with BigQuery API and the 1000 genomes dataset. 
+The goal of this project to analyze variants with BigQuery and familiarize with BigQuery API using 1000 genomes dataset. 
 
 # Prerequisite
 - Python >= v3.8
